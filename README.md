@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer/Technical Lead/Release Engineer 
+A Frontend developer/Technical Lead/Release Engineer 
 
 
 ## 🌐 Socials:
